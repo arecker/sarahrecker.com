@@ -162,7 +162,7 @@ border-radius: 8px; border: none; }
 .stalac_box_hover:hover { text-decoration: none; }
 .stalac_box_hover_inside_tbl { display: table; height: 100%; width: 100%; }
 .stalac_box_hover_inside_row { display: table-row; }
-.stalac_box_hover_inside_cell { display: table-cell; color: #000; vertical-align: middle; padding: 15px 25px;  background: url('images/white-trans.png') repeat; text-decoration: none; }
+.stalac_box_hover_inside_cell { display: table-cell; color: #000; vertical-align: middle; padding: 15px 25px;  background: url('/img/white-trans.png') repeat; text-decoration: none; }
 .stalac_box_hover_inside_cell2 { background-image: none; height: 20px; padding: 0; }
 .stalac_box_hover_inside_cell3 { width: 20px; background-image: none; padding: 0; }
 .stb_inside {  }
