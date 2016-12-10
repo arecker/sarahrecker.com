@@ -1,2 +1,2 @@
-exclude: [README.md, Gemfile, Gemfile.lock]
+exclude: [README.md, Gemfile, Gemfile.lock, Makefile]
 permalink: /:title/
